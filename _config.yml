@@ -1,11 +1,11 @@
 title: Yitong Shan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  # First description 
-  <br><br>
   <br><br>
   <a href="yitonsh@cs.washington.edu">Email</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/yitong-shan-a2a72b1a9/">LinkedIn</a> 
+  <br><br>
   <a href="https://github.com/evasy">GitHub</a> 
   
 theme: jekyll-theme-minimal
