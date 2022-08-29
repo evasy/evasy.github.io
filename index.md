@@ -25,7 +25,7 @@ Winner of UW SWE Hackathon '22 - Welcome Back: Local Businesses Track
 
 Working on data analytic projects related to teacher preparation, strategic district partnerships, and teacher staffing challenges.
 
-- Data Mining InternData Mining Intern (Jul 2021 - Sep 2021)
+- Data Mining Intern (Jul 2021 - Sep 2021)
 
 Built and optimized machine learning models (logistic regression, random forest, SVM, and XGBoost) to predict Indian Car Loans Overdue at the Financial Technology Department.
 
